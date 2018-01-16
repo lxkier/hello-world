@@ -1,3 +1,3 @@
-# hello-world
-Its about hello world.
+# First GitHub
+Its all about GitHub
 This is hello world. All about hello world.
